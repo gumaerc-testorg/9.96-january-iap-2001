@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6fb792b2-6a15-6f86-bb98-8b6324ea46d8
 resourcetype: Document
 title: RUN1_CELLX.PDF
 uid: 28b9ac5f-288f-4dd3-de3e-137cd8032284

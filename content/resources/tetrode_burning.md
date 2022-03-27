@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 14fdc843-f925-3096-a56c-16334bcace2c
 resourcetype: Document
 title: Tetrode_Burning.pdf
 uid: 816ec3c8-3b92-c662-11c7-45138e1c26c4

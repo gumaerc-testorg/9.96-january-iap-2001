@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 14fdc843-f925-3096-a56c-16334bcace2c
 resourcetype: Document
 title: HeadStageconstructio.pdf
 uid: b2a8770f-dff2-3ea5-2c42-2f3453ea37c1

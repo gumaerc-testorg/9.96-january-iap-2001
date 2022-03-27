@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6fb792b2-6a15-6f86-bb98-8b6324ea46d8
 resourcetype: Document
 title: PREPOSTCORR.PDF
 uid: f27b0617-3064-f741-6e3c-8468efa22db6

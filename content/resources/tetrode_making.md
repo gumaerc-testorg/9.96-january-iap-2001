@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 14fdc843-f925-3096-a56c-16334bcace2c
 resourcetype: Document
 title: Tetrode_making.pdf
 uid: 2c8596c2-4c52-cc3b-afa9-fab77e558f89

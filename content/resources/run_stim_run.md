@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6fb792b2-6a15-6f86-bb98-8b6324ea46d8
 resourcetype: Document
 title: RUN_STIM_RUN.PDF
 uid: b6ce8350-d294-1676-ca13-1b4fa2990439
