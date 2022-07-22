@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments examples
+  of output data.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 6fb792b2-6a15-6f86-bb98-8b6324ea46d8
 ---
@@ -19,6 +24,6 @@ Examples of Output Data
 
 These examples demonstrate the visualization of the data obtained from the tetrode array while implanted in a behaving rodent. Red signifies the highest intensity of activity, while blue signifies low or no activity.
 
-Output 1: Results from one cell recording ([PDF]({{< baseurl >}}/resources/run1_cellx))  
-Output 2: Series run-stimulate-run ([PDF]({{< baseurl >}}/resources/run_stim_run))  
-Output 3: Pre and post correlation of behavioral recording ([PDF]({{< baseurl >}}/resources/prepostcorr))
+Output 1: Results from one cell recording ({{% resource_link 28b9ac5f-288f-4dd3-de3e-137cd8032284 "PDF" %}})  
+Output 2: Series run-stimulate-run ({{% resource_link b6ce8350-d294-1676-ca13-1b4fa2990439 "PDF" %}})  
+Output 3: Pre and post correlation of behavioral recording ({{% resource_link f27b0617-3064-f741-6e3c-8468efa22db6 "PDF" %}})

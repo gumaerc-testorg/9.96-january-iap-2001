@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides lab materials for the course and step-by-step instructions
+  for the construction and use of the tetrode array and microdrive assembly that will
+  be used for recording hippocampal activity.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 14fdc843-f925-3096-a56c-16334bcace2c
 ---
@@ -11,13 +17,13 @@ Lab Materials
 
 The lab materials are step-by-step instructions on how to manufacture a tetrode array and microdrive assembly.
 
-Modifications to Drive Construction Handout ([PDF]({{< baseurl >}}/resources/modtodriveconshandou))  
-Sleep Box Construction ([PDF]({{< baseurl >}}/resources/sleep_box_construction))  
-Useful Tools ([PDF]({{< baseurl >}}/resources/useful_tools))  
-Tetrode Making ([PDF)]({{< baseurl >}}/resources/tetrode_making)  
-Animal Training ([PDF]({{< baseurl >}}/resources/animal_training))  
-Head Stage Construction ([PDF]({{< baseurl >}}/resources/headstageconstructio))  
-Tetrode Burning ([PDF]({{< baseurl >}}/resources/tetrode_burning))
+Modifications to Drive Construction Handout ({{% resource_link 15137006-5d8d-15dc-696f-7ffce99a0ced "PDF" %}})  
+Sleep Box Construction ({{% resource_link 8b4d326e-fc80-1a95-8c5a-04f939d52b9d "PDF" %}})  
+Useful Tools ({{% resource_link 2ec14a18-1ea9-2e68-1837-5da25d475368 "PDF" %}})  
+Tetrode Making ({{% resource_link 2c8596c2-4c52-cc3b-afa9-fab77e558f89 "PDF)" %}}  
+Animal Training ({{% resource_link dbffec7a-470d-dfea-e275-bd23fcaa56e2 "PDF" %}})  
+Head Stage Construction ({{% resource_link b2a8770f-dff2-3ea5-2c42-2f3453ea37c1 "PDF" %}})  
+Tetrode Burning ({{% resource_link 816ec3c8-3b92-c662-11c7-45138e1c26c4 "PDF" %}})
 
 First Week Task List
 --------------------
