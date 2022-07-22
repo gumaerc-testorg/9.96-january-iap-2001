@@ -5,6 +5,7 @@ file: /courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysio
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Modtodriveconshandou.pdf
 uid: 15137006-5d8d-15dc-696f-7ffce99a0ced
 ---
 Modifications to drive construction handout.
-

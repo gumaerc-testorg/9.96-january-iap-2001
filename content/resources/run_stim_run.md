@@ -5,6 +5,7 @@ file: /courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysio
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: RUN_STIM_RUN.PDF
 uid: b6ce8350-d294-1676-ca13-1b4fa2990439
 ---
 RUN - STIM - RUN protocol: stim area at 60-70% of track.
-

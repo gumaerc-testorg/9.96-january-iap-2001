@@ -5,6 +5,7 @@ file: /courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysio
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Sleep_box_construction.pdf
 uid: 8b4d326e-fc80-1a95-8c5a-04f939d52b9d
 ---
 This resource contains information related to sleep box construction.
-

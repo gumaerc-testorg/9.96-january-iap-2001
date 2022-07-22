@@ -5,6 +5,7 @@ file: /courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysio
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Tetrode_Burning.pdf
 uid: 816ec3c8-3b92-c662-11c7-45138e1c26c4
 ---
 This resource contains information related to tetrode burning.
-

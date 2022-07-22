@@ -6,6 +6,7 @@ file: /courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysio
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: PREPOSTCORR.PDF
 uid: f27b0617-3064-f741-6e3c-8468efa22db6
 ---
 Crosscorrelation between activity of cell pairs before and after 20min epoch of stimulation
-

@@ -6,6 +6,7 @@ file: /courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysio
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 9_96INTRO.pdf
 uid: a103cdc5-0742-f369-c3f1-42723c101662
 ---
 This resource discusses about the topic "An Investigation into the Mechanisms of Memory through Hippocampal Microstimulation".
-
