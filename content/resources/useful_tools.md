@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to useful tools like turning
   tool and reaming tool.
 file: /courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001/2ec14a181ea92e6818375da25d475368_Useful_Tools.pdf
+file_size: 126887
 file_type: application/pdf
 learning_resource_types:
 - Projects
