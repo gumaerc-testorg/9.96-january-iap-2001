@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to sleep box construction.
-file: /ol-ocw-studio-app/courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001/8b4d326efc801a958c5a04f939d52b9d_Sleep_box_construction.pdf
+file: /courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001/8b4d326efc801a958c5a04f939d52b9d_Sleep_box_construction.pdf
 file_size: 228372
 file_type: application/pdf
 learning_resource_types:
