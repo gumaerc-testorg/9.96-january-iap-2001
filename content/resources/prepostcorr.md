@@ -2,7 +2,7 @@
 content_type: resource
 description: Crosscorrelation between activity of cell pairs before and after 20min
   epoch of stimulation
-file: /courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001/f27b06173064f7416e3c8468efa22db6_PREPOSTCORR.PDF
+file: /ol-ocw-studio-app/courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001/f27b06173064f7416e3c8468efa22db6_PREPOSTCORR.PDF
 file_size: 4604
 file_type: application/pdf
 learning_resource_types:
